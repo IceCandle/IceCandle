@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @IceCandle
-- 👀 I’m interested in undergraduate mathematics.
-- 🌱 I’m currently learning linear algebra.
+I’m a freshman majoring in CSE at Seoul National University, drumming is my hobby.
 
 <!---
 IceCandle/IceCandle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
